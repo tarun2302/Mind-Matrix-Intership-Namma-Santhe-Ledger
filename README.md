@@ -42,7 +42,7 @@ utils/ → Helper classes
 
 ### Clone the Repository
 
-git clone [https://github.com/malikarshid01430-byte/NammaSantheLedger.git](https://github.com/malikarshid01430-byte/NammaSantheLedger.git)
+git clone [[https://github.com/malikarshid01430-byte/NammaSantheLedger.git](https://github.com/malikarshid01430-byte/NammaSantheLedger.git)](https://github.com/tarun2302/Mind-Matrix-Intership-Namma-Santhe-Ledger.git)
 
 ---
 
@@ -124,7 +124,8 @@ MIT License
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by TARUN ANAND R (1OX22CS168)
+THE OXFORD COLLEGE OF ENGINEERING
 
 ---
 
