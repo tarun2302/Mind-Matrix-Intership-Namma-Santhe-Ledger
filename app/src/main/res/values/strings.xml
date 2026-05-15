@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Namma Santhe Ledger</string>
+    <string name="meta_api_token">YOUR_META_API_TOKEN_HERE</string>
+    <string name="meta_phone_number_id">YOUR_PHONE_NUMBER_ID_HERE</string>
+</resources>
